@@ -57,7 +57,8 @@ const projectLinks = [
     description:
       'A drawing and notetaking application with over 20,000 downloads on the steam marketplace. It is intended to be used as a desktop background using Wallpaper Engine',
     githubURL: 'https://github.com/braydenwerner/Whiteboard-Desktop-Wallpaper',
-    websiteURL: 'https://desktop-whiteboard.netlify.app/',
+    websiteURL:
+      'https://steamcommunity.com/sharedfiles/filedetails/?id=2399605361',
     vid: whiteboardMP4,
     tags: ['JavaScript', 'HTML', 'CSS']
   },
