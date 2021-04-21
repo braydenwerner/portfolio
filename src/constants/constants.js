@@ -55,7 +55,7 @@ const projectLinks = [
   {
     name: 'EZ Notes',
     description:
-      'A drawing and notetaking application with over 20,000 downloads on the steam marketplace. It is intended to be used as a desktop background for Wallpaper Engine.',
+      'A drawing and notetaking application with over 60,000 downloads on the steam marketplace. It is intended to be used as a desktop background for Wallpaper Engine.',
     githubURL: 'https://github.com/braydenwerner/Whiteboard-Desktop-Wallpaper',
     websiteURL:
       'https://steamcommunity.com/sharedfiles/filedetails/?id=2399605361',
