@@ -18,7 +18,7 @@ export default function WorkExperience() {
               return (
                 <div id="job-container" key={i}>
                   <h1>{role}</h1>
-                  <img src={employerImage1} />
+                  <img src={employerImage1} alt="umich-image" />
                   <h2>{employer}</h2>
                   <h3>{date}</h3>
 

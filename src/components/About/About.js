@@ -45,7 +45,7 @@ export default function About() {
                   return <i className={`fab fa-${icon}`} key={i} />
                 })}
                 <img id="sql" src={sqlSvg}></img>
-                <img id="firebase" src={firebaseSvg}></img>
+                <img id="firebase" alt="firebase-image" src={firebaseSvg}></img>
               </div>
             </div>
           </div>
