@@ -44,7 +44,7 @@ export default function About() {
                 {icons.map((icon, i) => {
                   return <i className={`fab fa-${icon}`} key={i} />
                 })}
-                <img id="sql" src={sqlSvg}></img>
+                <img id="sql" alt="sql-image" src={sqlSvg}></img>
                 <img id="firebase" alt="firebase-image" src={firebaseSvg}></img>
               </div>
             </div>
